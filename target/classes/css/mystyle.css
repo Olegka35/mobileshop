@@ -1,0 +1,62 @@
+.input_form input {
+    height:20px;
+    width:60px;
+    padding:5px 5px;
+}
+.input_form button {
+    margin-top:10px;
+    margin-left:210px;
+}
+
+.lux {
+    width: 100%;
+    border: 2px ridge black;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+.lux thead {
+    background: #ffc757;
+}
+.lux td {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+.lux td, .lux th {
+    padding: 4px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.tablediv {
+    max-width: 900px;
+}
+
+.descr {
+    min-width: 80px;
+}
+
+.wordwrap {
+    word-wrap: break-word;
+    word-break: normal;
+    white-space: pre-wrap;
+}
+
+.addbutton {
+    margin-left: 865px;
+    margin-bottom: 7px;
+    padding: 5px 7px;
+}
+
+.header {
+    margin-left: 430px;
+    font-size: large;
+}
+
+.founded_users {
+    cursor: pointer;
+}
+
+.heightlimit {
+    height: 70px;
+    overflow: auto;
+}
